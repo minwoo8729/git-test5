@@ -1,2 +1,2 @@
 클론저장소에 추가한파일
-git-test 저장소에서 변경
+git-test-cloned 저장소에서 변경
